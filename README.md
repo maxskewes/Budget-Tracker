@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 Maxwell Countryman Skewes 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 Thanks to my tutor Mark Steadman and my class TA Claudette Raynor for working with me through this project.
