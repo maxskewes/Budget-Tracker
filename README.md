@@ -13,15 +13,15 @@ These instructions will get you a copy of the project up and running on your loc
 * If successful, the user will see "connected on localhost:3000." Navigate your browser to "localhost:3000".
 
 ## Built With
-* HTML
-* CSS
-* Javascript
-* JQuery
-* Bootstrap
-* Node
-* NPM
-* Robo 3T
-* Mlab
+* [HTML](https://html.com)
+* [CSS](https://www.w3schools.com/Cs)
+* [Javascript](https://www.javascript.com)
+* [jQuery](https://jquery.com)
+* [Bootstrap](https://getbootstrap.com)
+* [Node](https://nodejs.org)
+* [NPM](https://www.npmjs.com)
+* [Robo 3T](https://robomongo.org)
+* [Mlab](https://mlab.com)
 
 ## Authors
 Maxwell Countryman Skewes 
@@ -30,4 +30,4 @@ Maxwell Countryman Skewes
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-Thanks to my tutor Mark Steadman and my class TA Claudette Raynor for working with me through this project.
+Thanks to University of Oregon's Coding Bootcamp, my tutor Mark Steadman and my class TA Claudette Raynor for working with me through this project.
