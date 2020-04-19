@@ -2,6 +2,8 @@
 ### ©2020
 A Node-based app that connects to a Mongo database and allows the user to track their budget, both online and offline. Expenses and earning are recorded on a time line then displayed using an attractive UI.
 
+![Alt text](./readmeBudget.png?raw=true "AppImage")
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
