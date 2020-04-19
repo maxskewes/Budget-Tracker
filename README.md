@@ -1,5 +1,5 @@
 # Online/Offline Budget Tracker
-©2020
+### ©2020
 A Node-based app that connects to a Mongo database and allows the user to track their budget, both online and offline. Expenses and earning are recorded on a time line then displayed using an attractive UI.
 
 ## Getting Started
